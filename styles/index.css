@@ -1,0 +1,22 @@
+* {
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+body {
+    padding-top: 30px;
+}
+
+button {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.font_size {
+font-size: 1.5rem;
+}
+
+p {
+    padding-left: 20px;
+}

@@ -1,0 +1,38 @@
+body {
+min-height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 0%; 
+} 
+
+
+main {
+margin-top: 100px;
+height: 250px;
+width: 300px;
+border: 3px solid rgb(155, 149, 149);
+border-radius: 10%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+
+button {
+    width: 100px;
+}
+
+input {
+    margin-left: 5px;
+    width: 200px;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color:red;
+}
